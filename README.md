@@ -1,4 +1,4 @@
-# NodeJs Shop API
+# NodeJs API
 
 NodeJs API using Node.js with Express.js Framework
 
